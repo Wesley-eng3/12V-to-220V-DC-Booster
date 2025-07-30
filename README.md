@@ -5,8 +5,14 @@
 This project implements a simple boost (step-up) converter using a 555 timer IC as a PWM generator, an IRF540 MOSFET as the power switch, and voltage feedback for output regulation.
 
 ## 📷 Circuit Diagram
+3D view in Altium
+<img width="1116" height="575" alt="3D view" src="https://github.com/user-attachments/assets/361cfbbe-d5be-4ff7-9d20-1fd06adf0235" />
 
-![Boost Converter Circuit](./<image-name>.png) <!-- Rename the image file and update the name here -->
+TOP Layer
+<img width="1143" height="671" alt="TOP" src="https://github.com/user-attachments/assets/aa2a01bf-78fd-4a69-bc3e-fb37df85c777" />
+Bottom Layer
+<img width="1137" height="677" alt="Bottom" src="https://github.com/user-attachments/assets/a2f2c115-0e7b-4be8-89c5-78e3981c423a" />
+
 
 ## ⚙️ Components Used
 
@@ -51,6 +57,7 @@ This circuit functions as a boost converter, stepping up the input voltage from 
 ## 📁 Simulation
 
 This project was simulated in **Proteus**. Include the `.pdsprj` file in the repository folder if you'd like others to run the simulation too.
+<img width="1101" height="487" alt="Schematics" src="https://github.com/user-attachments/assets/b4e46912-a56b-470d-9cb6-5ee9e3109828" />
 
 ---
 
